@@ -8,8 +8,8 @@ Highlights:
 - Used conditional formatting to highlight key metrics and enable quick identification of trends and outliers
 - Implemented report-level filters to allow users to easily customize the data they see
 - Identified areas of opportunity for the company, including high-performing products and stores, and recommended actions to improve sales performance
-- Utilized DAX formulas to calculate key performance indicators such as profit margin, return rate, and revenue growth
-- Collaborated with team members to ensure project met business needs and provided actionable insights. 
+- Utilized DAX formulas to calculate key performance indicators such as profit margin, return rate,YTD revenue , YTD profit , YTD return  and revenue growth
+ 
 
 
 DashBoard:
