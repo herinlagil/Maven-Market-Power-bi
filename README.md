@@ -1,12 +1,19 @@
 # Maven-Market-Power-bi
+
+Objective:  To analyze sales data for Maven Market's top-performing products and provide insights to optimize their product strategy and increase revenue.
+
+Highlights:
+- Created a comprehensive data model to bring together multiple data sources and ensure data accuracy
+- Developed interactive visualizations including a matrix, KPI cards, map, treemap, column chart, and gauge chart
+- Used conditional formatting to highlight key metrics and enable quick identification of trends and outliers
+- Implemented report-level filters to allow users to easily customize the data they see
+- Identified areas of opportunity for the company, including high-performing products and stores, and recommended actions to improve sales performance
+- Utilized DAX formulas to calculate key performance indicators such as profit margin, return rate, and revenue growth
+- Collaborated with team members to ensure project met business needs and provided actionable insights. 
+
+
+DashBoard:
+
 ![Screenshot (35)](https://github.com/herinlagil/Maven-Market-Power-bi/assets/127740424/f3c5c0a9-aa9c-410f-ac01-85eef99b4060)
 
-1. Created a dynamic dashboard in Power BI with multiple visuals and slicers.
-2. Incorporated a Matrix visual to display Total Transactions, Total Profit, Profit Margin, and Return Rate by Product_Brand.
-3. Added conditional formatting to highlight Total Transactions with data bars and color scales for Profit Margin and Return Rate.
-4. Included a visual level Top N filter to display the top 30 product brands by Total Transactions.
-5. Added KPI Cards to show Total Transactions, Total Profit, and Total Returns, with trend analysis and target goals.
-6. Included a Map visual to display Total Transactions by store city with a slicer for store country.
-7. Added a Treemap visual to break down Total Transactions by store country, with drill-up and drill-down functionality.
-8. Included a Column Chart to display Total Revenue by week with a report level filter for 1998.
-9. Added a Gauge Chart to display Total Revenue vs. Revenue Target with a visual level Top N filter for the latest Start of Month.
+
